@@ -7,8 +7,11 @@ h11==0.16.0
 httptools==0.9.0
 idna==3.20
 opentelemetry-api==1.45.1
+packaging==26.3
+pillow==13.0.0
 pydantic==2.14.1
 pydantic_core==2.50.1
+pytesseract==0.3.13
 python-dotenv==1.2.4
 python-multipart==0.0.32
 PyYAML==6.0.3
